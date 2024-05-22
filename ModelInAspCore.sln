@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelsInAspCore", "ModelInAspCore\ModelsInAspCore.csproj", "{30E5BFA5-3AF6-48BB-A5EC-9ECA515493B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30E5BFA5-3AF6-48BB-A5EC-9ECA515493B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30E5BFA5-3AF6-48BB-A5EC-9ECA515493B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30E5BFA5-3AF6-48BB-A5EC-9ECA515493B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30E5BFA5-3AF6-48BB-A5EC-9ECA515493B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C805BC56-BE89-447A-8A95-AA32C5BA5017}
+	EndGlobalSection
+EndGlobal
